@@ -10,16 +10,15 @@ body{
     margin-top: 5%;
 }
 p{
-    margin-top: 8%;
-    font-size:xx-large;
+    margin: 5% auto;
+    font-size: 42px;
     border: 2px solid red;
-    width: 20%;
-    margin: auto;
+    width: 10%;
 }
 .button{
-    margin-top: 5%;
+    margin: 13% auto;
 }
 .buton{
     width: auto;
-    font-size: xx-large;
+    font-size: 43px;
 }

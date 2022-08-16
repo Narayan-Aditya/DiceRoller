@@ -1,0 +1,21 @@
+body{
+    background-color: #9cdfd9;
+}
+.box{
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+.dice_img{
+    margin-top: 5%;
+}
+p{
+    margin-top: 8%;
+    font-size:xx-large;
+    border: 2px solid red;
+    width: 20%;
+    margin: auto;
+}
+.button{
+    margin-top: 5%;
+}
